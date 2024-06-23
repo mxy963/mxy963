@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate Computer Engineering student at 
 - 👀 **I’m interested in:** Developing innovative solutions to improve the quality of life.
 - 🌱 **I’m currently learning:** Advanced application development, Mobil application, IoT, and other cutting-edge technologies.
 - 💞️ **I’m looking to collaborate on:** Projects that address real-world problems and create meaningful impact.
-- 📫 **How to reach me:** [moyusufoglu@hotmail.com](mailto:moyusufoglu@hotmail.com)
+- 📫 **How to reach me:** [moyusufoglu@hotmail.com](mailto:moyusufoglu@outlook.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I'm a passionate gamer and I absolutely love story-driven games!
 
@@ -29,7 +29,7 @@ I co-founded **[M3Codes](https://github.com/M3-Codes)** with my friends **[MuBer
 ## Contact
 
 Feel free to reach out to me for collaborations or discussions about technology and innovation.
-You can contact me via email at [![Email](https://img.shields.io/badge/Email-%230078D6.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:moyusufoglu@hotmail.com)
+You can contact me via email at [![Email](https://img.shields.io/badge/Email-%230078D6.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:moyusufoglu@outlook.com)
 
 ---
 
