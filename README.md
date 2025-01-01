@@ -24,8 +24,7 @@ Welcome to my GitHub profile! I am a passionate Computer Engineering student at 
 
 ## M3Codes
 
-I co-founded **[M3Codes](https://github.com/M3-Codes)** with my friends **[MuBereket](https://github.com/MuBereket2023)** and **[Mahmut0b](https://github.com/Mahmut0b)**. We work together on various software development projects.
-
+I co-founded **[M3Codes](https://github.com/M3-Codes)**.
 ## Contact
 
 Feel free to reach out to me for collaborations or discussions about technology and innovation.
