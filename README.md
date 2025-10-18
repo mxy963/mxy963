@@ -3,7 +3,6 @@ Ui/Ux & Mobile Developer
 Computer Engineer.
 Shakespeare
 
-## About Me 
 - 📫 **How to reach me:** [mxy963@gmail.com](mailto:mxy963@gmail.com) 
 
 ## Skills & Technologies
