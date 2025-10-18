@@ -18,7 +18,7 @@ Computer Engineer.
 
 ## M3Code
 
-I co-founded **[M3Codes](https://github.com/orgM3Code)**.
+I co-founded **[M3Code](https://github.com/orgM3Code)**.
 
 ## Contact
 
