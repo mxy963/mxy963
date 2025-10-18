@@ -1,15 +1,9 @@
 # Hello, I'm Mohammed ( @mxy963 )! 👋
 
-Welcome to my GitHub profile! I am a passionate Computer Engineering student at Fırat University in Turkey, dedicated to using technology to solve social challenges.
+Computer Engineer.
 
-## About Me
-
-- 👀 **I’m interested in:** Developing innovative solutions to improve the quality of life.
-- 🌱 **I’m currently learning:** Advanced application development, Mobil application, IoT, and other cutting-edge technologies.
-- 💞️ **I’m looking to collaborate on:** Projects that address real-world problems and create meaningful impact.
-- 📫 **How to reach me:** [moyusufoglu@outlook.com](mailto:moyusufoglu@outlook.com)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I'm a passionate gamer and I absolutely love story-driven games!
+## About Me 
+- 📫 **How to reach me:** [mxy963@gmail.com](mailto:mxy963@gmail.com) 
 
 ## Skills & Technologies
 
@@ -22,14 +16,12 @@ Welcome to my GitHub profile! I am a passionate Computer Engineering student at 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## M3Codes
+## M3Code
 
-I co-founded **[M3Codes](https://github.com/M3-Codes)**.
+I co-founded **[M3Codes](https://github.com/orgM3Code)**.
+
 ## Contact
 
 Feel free to reach out to me for collaborations or discussions about technology and innovation.
-You can contact me via email at [![Email](https://img.shields.io/badge/Email-%230078D6.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:moyusufoglu@outlook.com)
-
----
-
-Thank you for visiting my GitHub profile! Let's connect.
+You can contact me via email at [![Email](https://img.shields.io/badge/Email-%230078D6.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:mxy963@gmail.com)
+ 
