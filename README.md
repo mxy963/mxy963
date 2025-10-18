@@ -1,6 +1,7 @@
 # Hello, I'm Mohammed ( @mxy963 )! 👋
-
+Ui/Ux & Mobile Developer
 Computer Engineer.
+Shakespeare
 
 ## About Me 
 - 📫 **How to reach me:** [mxy963@gmail.com](mailto:mxy963@gmail.com) 
@@ -22,6 +23,5 @@ I co-founded **[M3Code](https://github.com/orgM3Code)**.
 
 ## Contact
 
-Feel free to reach out to me for collaborations or discussions about technology and innovation.
-You can contact me via email at [![Email](https://img.shields.io/badge/Email-%230078D6.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:mxy963@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%230078D6.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:mxy963@gmail.com)
  
